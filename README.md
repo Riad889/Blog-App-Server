@@ -1,11 +1,10 @@
 # Blog-App-Server
-Blog-App-Server
-
-It is server site coding for a blog site where user can create new blog.Also can read other's blogs and 
-also can edit delete and update it's own blog
-
-# The server site coding is based on Nodejs and for database mongodb is used and also used expressJs
-# The application is deployed on render website 
-
-# The FullWebsite Link is given below
-[Full Website] (https://tech-blog-site.netlify.app)
+The task is to create server-side code for a basic blog that allows users to perform CRUD operations (Create, Read, Update, Delete) on their own blog posts and view other users' blog posts.
+# For DataBase
+used MongoDB
+# For Server Site Coding
+used NodeJs and ExpressJs
+# For Deployment
+used (https://render.com/)
+# Full Website Link
+(https://tech-blog-site.netlify.app)
