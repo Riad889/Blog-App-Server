@@ -1,8 +1,8 @@
 const express = require("express");
 const dotenv = require("dotenv");
 const mongoose = require("mongoose");
-const router=require('../server/routes/auth')
-const blog_router=require('../server/routes/blog-routes');
+const router=require('./routes/auth')
+const blog_router=require('./routes/blog-routes');
 const app = express();
 
 const cors=require('cors');
